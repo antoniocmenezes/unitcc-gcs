@@ -17,3 +17,4 @@ app.post('/login', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Servidor rodando na porta ${PORT}`);
 });
+// Endpoint de login implementado - 2025-06-19
